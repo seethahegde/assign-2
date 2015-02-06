@@ -1,0 +1,7 @@
+com/origamisoftware/teach/mock/UserAuth.class
+com/origamisoftware/teach/mock/StockServiceFactory.class
+com/origamisoftware/teach/mock/StockTicker.class
+com/origamisoftware/teach/mock/StockQuote.class
+com/origamisoftware/teach/mock/DBStockService.class
+com/origamisoftware/teach/mock/StockService.class
+com/origamisoftware/teach/mock/WebStockService.class
